@@ -1,0 +1,13 @@
+C:\Users\Naelin.Churches\Documents\TicTacToe\TicTacToeSubmissionSln (1)\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\netcoreapp3.0\TicTacToeSubmissionConole.exe
+C:\Users\Naelin.Churches\Documents\TicTacToe\TicTacToeSubmissionSln (1)\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\netcoreapp3.0\TicTacToeSubmissionConole.deps.json
+C:\Users\Naelin.Churches\Documents\TicTacToe\TicTacToeSubmissionSln (1)\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\netcoreapp3.0\TicTacToeSubmissionConole.runtimeconfig.json
+C:\Users\Naelin.Churches\Documents\TicTacToe\TicTacToeSubmissionSln (1)\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\netcoreapp3.0\TicTacToeSubmissionConole.runtimeconfig.dev.json
+C:\Users\Naelin.Churches\Documents\TicTacToe\TicTacToeSubmissionSln (1)\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\netcoreapp3.0\TicTacToeSubmissionConole.dll
+C:\Users\Naelin.Churches\Documents\TicTacToe\TicTacToeSubmissionSln (1)\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\netcoreapp3.0\TicTacToeSubmissionConole.pdb
+C:\Users\Naelin.Churches\Documents\TicTacToe\TicTacToeSubmissionSln (1)\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\netcoreapp3.0\TicTacToeRendererLib.dll
+C:\Users\Naelin.Churches\Documents\TicTacToe\TicTacToeSubmissionSln (1)\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\netcoreapp3.0\TicTacToeSubmissionConole.csprojAssemblyReference.cache
+C:\Users\Naelin.Churches\Documents\TicTacToe\TicTacToeSubmissionSln (1)\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\netcoreapp3.0\TicTacToeSubmissionConole.AssemblyInfoInputs.cache
+C:\Users\Naelin.Churches\Documents\TicTacToe\TicTacToeSubmissionSln (1)\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\netcoreapp3.0\TicTacToeSubmissionConole.AssemblyInfo.cs
+C:\Users\Naelin.Churches\Documents\TicTacToe\TicTacToeSubmissionSln (1)\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\netcoreapp3.0\TicTacToeSubmissionConole.csproj.CopyComplete
+C:\Users\Naelin.Churches\Documents\TicTacToe\TicTacToeSubmissionSln (1)\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\netcoreapp3.0\TicTacToeSubmissionConole.dll
+C:\Users\Naelin.Churches\Documents\TicTacToe\TicTacToeSubmissionSln (1)\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\netcoreapp3.0\TicTacToeSubmissionConole.pdb
